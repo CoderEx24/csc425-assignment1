@@ -6,3 +6,4 @@ Algorithms attempted:-
 * Gaussian Process
 * Naive Bayes nets
 
+Gaussian Process is the best on average
